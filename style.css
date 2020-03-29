@@ -1,0 +1,88 @@
+body
+{
+	background-color: black;
+	font-family: Verdana;
+	font-size: 20px;
+	color:White;
+	
+}
+
+#container{
+		width:1180px;
+		margin-left: auto;
+		margin-right:auto;		
+	}
+	
+	#logo{
+		background-color: black;
+		text-align: left;
+		padding:15px;
+		letter-spacing:3px;
+		font-family: 'Bebas Neue'; 
+	}
+	
+	#nav{
+		min-height:620px;
+		width:160px;
+		float:left;
+		background-color: black;
+		text-align: left;
+		
+	}
+	#content{
+		min-height:620px;
+		width:600px;
+		float:left;
+		background-color: black;
+		text-align: left;
+		padding-top:15px;
+		padding-right:60px;
+		padding-left:30px;
+	}
+	#ad{
+		width:300px;
+		float:left;
+		background-color: black;
+		text-align: left;
+		
+	}	
+	#footer{
+		clear:both;
+		background-color: black;
+		text-align: center;
+		padding:15px;
+	}	
+	.media{
+		max-width:550px;
+	}
+	.fotoNav{		
+		float:left;
+	}
+	.option{
+		width:74px;
+		float:left;	
+	}
+
+h1{
+font-size:48px;
+}
+
+
+
+/*Nieodwiedzony link*/
+a:link{
+	text-decoration: none;
+	color:white;	
+}
+
+/*odwiedzony link*/
+a:visited{
+	text-decoration: none;
+	color:white;
+}
+
+/*hover link*/
+a:hover{
+	text-decoration: none;
+	color:white;
+}
